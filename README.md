@@ -2,9 +2,9 @@
 
 ## Live Deployment & Personal Repository
 
-Vercel Link: https://sd-practice2-assignment09.vercel.app/
+Vercel Link: https://sd-practice2-assignment10.vercel.app/
 
-Personal Repo (pre-caution): https://github.com/Boom21362/SDPractice2_Assignment09
+Personal Repo (pre-caution): https://github.com/Boom21362/SDPractice2_Assignment10
  
 ---
 
