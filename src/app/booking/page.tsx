@@ -20,7 +20,7 @@ export default  function Booking(){
                 venue :  venue
             }
             dispatch(addBooking(item))
-            alert("Reservation added to cart!")
+            alert("Reservation added to booking list!")
         }
     }
     

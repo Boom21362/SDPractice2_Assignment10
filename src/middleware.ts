@@ -1,5 +1,6 @@
-export {default} from 'next-auth/middleware'
+export { default } from "next-auth/middleware"
 
 export const config = {
-    matcher : ["/booking"] 
+    // An empty array or a path that doesn't exist
+    matcher: ["/admin-panel-hidden/:path*"] 
 }
