@@ -4,6 +4,9 @@ const nextConfig: NextConfig = {
   images: {
     domains: ['drive.google.com']
   },
+  experimental: {
+    serverActions: { bodySizeLimit: '2mb' },
+},
   async headers() {
       return [
           {
